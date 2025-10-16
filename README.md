@@ -1,2 +1,2 @@
 # SinergIA
-All of SinergIA development
+All of SinergIA platform development
