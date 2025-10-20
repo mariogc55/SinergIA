@@ -32,7 +32,7 @@ const routes = [
         component: IAChatScrum,
       },
       {
-        path: 'ia/xp',
+        path: 'Ia/xp',
         name: 'ChatXP',
         component: IAChatXP,
       },
@@ -65,5 +65,6 @@ router.beforeEach((to, from, next) => {
     next();
   }
 });
+
 
 export default router;
